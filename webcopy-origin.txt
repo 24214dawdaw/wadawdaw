@@ -1,0 +1,268 @@
+Uri: https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&amp;display=swap
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&amp;display=swap);@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;700&display=swap);abbr,address,article,aside,audio,b,blockquote,body,canvas,caption,cite,code,dd,del,details,dfn,div,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,p,pre,q,samp,section,small,span,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,ul,var,video{margin:0;padding:0;border:0;outline:0;font-size:100%25;vertical-align:baseline;background:0 0}body{line-height:1}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}nav ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&amp;display=swap
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F62fjtqLzI2JPCgQBnw7HFowA.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notosansjp\v42\-F62fjtqLzI2JPCgQBnw7HFowA.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQaioq1A.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQaioq1A.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQei0q1A.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQei0q1A.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQMisq1A.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQMisq1A.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoserifjp/v21/xn77YHs72GKoTvER4Gn3b5eMZCqNRkg.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notoserifjp\v21\xn77YHs72GKoTvER4Gn3b5eMZCqNRkg.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoserifjp/v21/xn77YHs72GKoTvER4Gn3b5eMZGKLRkg.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notoserifjp\v21\xn77YHs72GKoTvER4Gn3b5eMZGKLRkg.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoserifjp/v21/xn7mYHs72GKoTvER4Gn3b5eMXNg.otf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\notoserifjp\v21\xn7mYHs72GKoTvER4Gn3b5eMXNg.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/bg01.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\bg01.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/bg02.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\bg02.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/en/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\en\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/en/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\en\mv_sale.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/en/sp/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\en\sp\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/en/sp/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\en\sp\mv_sale.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/en/verify_arrow.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\en\verify_arrow.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/mv_bg.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\mv_bg.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/mv_catch.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\mv_catch.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\mv_sale.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/bg01.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\bg01.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/bg02.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\bg02.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/mv_bg.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\mv_bg.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/mv_catch.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\mv_catch.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\mv_sale.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/sp/spec_bg.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\sp\spec_bg.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/spec_bg.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\spec_bg.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/tw/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\tw\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/tw/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\tw\mv_sale.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/tw/sp/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\tw\sp\mv_logo.png
+Content Type: image/png
+
+Uri: https://img.spike-chunsoft.co.jp/miabyss/assets/images/tw/sp/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\miabyss\assets\images\tw\sp\mv_sale.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\index.htm
+Content Type: text/html
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/favicon.html
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\favicon.html
+Content Type: text/html
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/footer_platform.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\footer_platform.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/logo-platform.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\logo-platform.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/logo-spike-chunsoft.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\logo-spike-chunsoft.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/mv_catch.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\mv_catch.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/mv_logo.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\mv_logo.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/mv_sale.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\mv_sale.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/sp/footer_platform.html
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\sp\footer_platform.html
+Content Type: text/html
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/sp/logo-platform.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\sp\logo-platform.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/sp/logo-spike-chunsoft.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\sp\logo-spike-chunsoft.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss01.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss01.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss02.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss02.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss03.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss03.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss04.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss04.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss05.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss05.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_a01.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_a01.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_a02.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_a02.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_a03.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_a03.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_b01.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_b01.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_b02.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_b02.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_b03.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_b03.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_c01.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_c01.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_c02.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_c02.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/ss_c03.jpg
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\ss_c03.jpg
+Content Type: image/jpeg
+
+Uri: https://ms-madeinabyss.com/images/miabyss/assets/images/unknown.png
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\images\miabyss\assets\images\unknown.png
+Content Type: image/png
+
+Uri: https://ms-madeinabyss.com/MadeInAbyss.zip
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\MadeInAbyss.zip
+Content Type: application/zip
+
+Uri: https://ms-madeinabyss.com/website/miabyss/assets/css/main.css
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\website\miabyss\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ms-madeinabyss.com/website/miabyss/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\website\miabyss\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-GGS7FDFD2Z
+File Name: C:\Downloaded Web Sites\ms-madeinabyss.com\gtag\js
+Content Type: application/javascript
+

@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/notoserifjp/v21/xn7mYHs72GKoTvER4Gn3b5eMXNg.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/notoserifjp/v21/xn77YHs72GKoTvER4Gn3b5eMZCqNRkg.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/notoserifjp/v21/xn77YHs72GKoTvER4Gn3b5eMZGKLRkg.otf) format('opentype');
+}
